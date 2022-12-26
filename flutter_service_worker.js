@@ -3,8 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a5b0d49670f84d5b3f1d74150a8eab68",
-"assets/assets/images/ballpool.png": "863af06494c4a7372c80c015d21338cf",
+  "assets/AssetManifest.json": "01abf9694c98040f956f55807e189967",
+"assets/assets/gif/combined.gif": "dd8759ad9cbe188473e8f6a9e82c2e01",
+"assets/assets/images/ballpool.jpg": "d491329e4db6598c224f4afbb3449b3d",
 "assets/assets/images/banana.png": "8ef4ee0f23c5761f6a286462fbeb1146",
 "assets/assets/images/BananaLeft.png": "3706bb14cf4e20af8f0daa19023b02c2",
 "assets/assets/images/block.jpg": "3d361d3250b86f95e15c4d09315db084",
@@ -12,8 +13,6 @@ const RESOURCES = {
 "assets/assets/images/facebook.png": "a6c3141c2692cfd6cee61224fce05370",
 "assets/assets/images/girl.jpg": "bca4e8dcd2a493b69232643d8fefa250",
 "assets/assets/images/GoBananaAboutIcon.png": "cc2b26e6a51a8bb4b818f42874ce399f",
-"assets/assets/images/GoBananaIcon.jpg": "44a4238c7f45e515e351eca2cbe89a35",
-"assets/assets/images/GoBananaIcon.png": "1ea0cd902856e3024dc9c69c449d8e9f",
 "assets/assets/images/GoBananasLogoWeb.png": "79fefc1d789e261299ee64609610fff8",
 "assets/assets/images/group.jpg": "bd78ea9daa60b7fc6228ac9acde727f2",
 "assets/assets/images/instagram.png": "b8bc2d348022e648e4330d974c3c39b5",
@@ -25,7 +24,8 @@ const RESOURCES = {
 "assets/assets/images/miniIcon.png": "cf16977d055799851c5c410b61eccda7",
 "assets/assets/images/muchmore.jpg": "4197425b71e8efe576b7a72f850db5ab",
 "assets/assets/images/obstracle.jpg": "9e19e800ae7690c17e716972fc64f803",
-"assets/assets/images/parent.jpg": "e81a0759a192aef73f8fff885ab112d3",
+"assets/assets/images/parent.jpg": "f36c008be0a5e213e023a7d6fba6d7be",
+"assets/assets/images/phoneTest.png": "fd39d375776e27677b151cf1766e02ff",
 "assets/assets/images/sandpit.jpg": "697db8f3cc5c49e6ec62f0d0fe478a5d",
 "assets/assets/images/slide.jpg": "f255b6899e9653ffc93365a762c6e400",
 "assets/assets/images/spongepool.jpg": "3f70e8e5fbad443dbf8e7aed0d8ba8f8",
@@ -36,6 +36,7 @@ const RESOURCES = {
 "assets/assets/images/utlimateIcon.png": "5ca56232b474f666173c25f09197df27",
 "assets/assets/images/wallclimb.jpg": "d710ce9a2f8641cea9c340ecd85cceaa",
 "assets/assets/images/wallpuzzle.jpg": "f7030b61062957c7f2c95f8d75e6df2c",
+"assets/assets/images/webTest.png": "5b045bd172d1c41fb46a217d118772a3",
 "assets/assets/images/whatsapp.png": "2aacd3e08539fbdcc232996ce4f01524",
 "assets/assets/images/youtube.png": "0a30a0f07c5aeb2c835e94d3df06e219",
 "assets/font/Carrotflower.ttf": "e2c69ad46e072dfd8372a9f64821038d",
@@ -54,9 +55,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5a15514cf98ba40f05aaa8612f7b3722",
-"/": "5a15514cf98ba40f05aaa8612f7b3722",
-"main.dart.js": "6b70a3dcb0d05c0329bdf6f8b65e32bf",
+"index.html": "2cca90965d5295b8e4512dddba30a9cc",
+"/": "2cca90965d5295b8e4512dddba30a9cc",
+"main.dart.js": "bd8a8ec80f191fc12fc5322375e32204",
 "manifest.json": "a54b551f9798406533839f2728386b55",
 "version.json": "3a037d088b8499805cfce2dd9c9b6bdc"
 };
