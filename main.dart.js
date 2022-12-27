@@ -51376,7 +51376,7 @@ N(a,b){var s,r,q=null,p=b.R(t.w).f.a.a
 if(p>600){s=p>1000
 r=s?1000:p
 r=A.d1("assets/images/WebHomeBg1.png",B.br,!1,s?500:p/2,r)
-r=A.ho(B.c2,A.a([r,A.d1("assets/gif/Combined.gif",B.br,!1,q,s?1000:p)],t.p),B.ax)
+r=A.ho(B.c2,A.a([r,A.d1("assets/gif/WebComp.gif",B.br,!1,q,s?1000:p)],t.p),B.ax)
 s=r}else s=A.ho(B.c2,A.a([A.d1("assets/images/WebDesignMobile1.png",B.br,!1,q,p),A.d1("assets/gif/MobileWebComp.gif",B.br,!1,q,p)],t.p),B.ax)
 r=t.p
 return A.bb(q,A.c_(A.a([A.c_(A.a([new A.zW(q),s],r),B.q,B.p)],r),B.q,B.p),B.ky,q,q,q,q,p)}}
