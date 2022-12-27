@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "01abf9694c98040f956f55807e189967",
+  "assets/AssetManifest.json": "e5c989f05d44cf63b0f0f0be652f972f",
 "assets/assets/gif/combined.gif": "dd8759ad9cbe188473e8f6a9e82c2e01",
 "assets/assets/images/ballpool.jpg": "d491329e4db6598c224f4afbb3449b3d",
 "assets/assets/images/banana.png": "8ef4ee0f23c5761f6a286462fbeb1146",
@@ -36,6 +36,7 @@ const RESOURCES = {
 "assets/assets/images/utlimateIcon.png": "5ca56232b474f666173c25f09197df27",
 "assets/assets/images/wallclimb.jpg": "d710ce9a2f8641cea9c340ecd85cceaa",
 "assets/assets/images/wallpuzzle.jpg": "f7030b61062957c7f2c95f8d75e6df2c",
+"assets/assets/images/WebHomeBg1.png": "c117b6ca4dd7780be5d927f2daa5a714",
 "assets/assets/images/webTest.png": "5b045bd172d1c41fb46a217d118772a3",
 "assets/assets/images/whatsapp.png": "2aacd3e08539fbdcc232996ce4f01524",
 "assets/assets/images/youtube.png": "0a30a0f07c5aeb2c835e94d3df06e219",
@@ -55,9 +56,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7c6b532b95ae7b2024c90e4d04bdade1",
-"/": "7c6b532b95ae7b2024c90e4d04bdade1",
-"main.dart.js": "726abc0d18e4ceff213828b411cd1408",
+"index.html": "cc1224313f7ff8d89934860785565f06",
+"/": "cc1224313f7ff8d89934860785565f06",
+"main.dart.js": "ee90d95efa65b58b3ca25509ee01ed6d",
 "manifest.json": "a54b551f9798406533839f2728386b55",
 "version.json": "3a037d088b8499805cfce2dd9c9b6bdc"
 };
