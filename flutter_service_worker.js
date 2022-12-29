@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "9504046e332896c0b918e6f2f00254f7",
 "assets/assets/gif/MobileWebComp.gif": "91f0f1753a5edc8805d926e707a3522f",
-"assets/assets/gif/WebComp.gif": "5e259da43ac10dfa6644dec92bd35d40",
+"assets/assets/gif/WebComp.gif": "82c3ae819362efa9b1d9d8a435453734",
 "assets/assets/images/ballpool.jpg": "d491329e4db6598c224f4afbb3449b3d",
 "assets/assets/images/banana.png": "8ef4ee0f23c5761f6a286462fbeb1146",
 "assets/assets/images/BananaLeft.png": "3706bb14cf4e20af8f0daa19023b02c2",
@@ -58,9 +58,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "608cc93dfcdb15e6ed89bee6adb31b43",
-"/": "608cc93dfcdb15e6ed89bee6adb31b43",
-"main.dart.js": "f86e17976d9a7b08ba4284bf50c8a9e1",
+"index.html": "8f299dceac32ac2a535b2ee66a8e135b",
+"/": "8f299dceac32ac2a535b2ee66a8e135b",
+"main.dart.js": "8ef78922f94f45f43bad991c46da325a",
 "manifest.json": "a54b551f9798406533839f2728386b55",
 "version.json": "3a037d088b8499805cfce2dd9c9b6bdc"
 };
