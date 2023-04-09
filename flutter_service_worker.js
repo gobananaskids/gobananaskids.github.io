@@ -3,12 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "fc2e2f57c80315861703a83093ae9cbb",
+  "assets/AssetManifest.json": "7e4275dad6b60aa6808bf2fea19ca976",
 "assets/assets/images/ballpool.jpg": "a1f80b97163f6423507a96b185dbac33",
 "assets/assets/images/banana.png": "8ef4ee0f23c5761f6a286462fbeb1146",
 "assets/assets/images/BananaLeft.png": "3706bb14cf4e20af8f0daa19023b02c2",
 "assets/assets/images/block.jpg": "3d361d3250b86f95e15c4d09315db084",
 "assets/assets/images/cake.png": "a0ea8bb15d76678d90ef7d03b8cd12b3",
+"assets/assets/images/car.JPG": "0b7df22806ef3c2fe3cd50d4f75fdaed",
+"assets/assets/images/caterpillar.jpg": "889a7f10d1f3570bfa2d47e5ce93bfcc",
 "assets/assets/images/facebook.png": "a6c3141c2692cfd6cee61224fce05370",
 "assets/assets/images/girl.jpg": "bca4e8dcd2a493b69232643d8fefa250",
 "assets/assets/images/GoBananaAboutIcon.png": "cc2b26e6a51a8bb4b818f42874ce399f",
@@ -16,6 +18,7 @@ const RESOURCES = {
 "assets/assets/images/greenBg.jpg": "7d38b3b3ac15e30b107ecde700f81ae3",
 "assets/assets/images/group.jpg": "bd78ea9daa60b7fc6228ac9acde727f2",
 "assets/assets/images/instagram.png": "b8bc2d348022e648e4330d974c3c39b5",
+"assets/assets/images/interactivegames.jpg": "21ecaedbd499b654d8728397ea481b95",
 "assets/assets/images/legoTable.jpg": "f3d236ab97601df47d597a35d8387123",
 "assets/assets/images/maxiBirthday.jpg": "614d597aeae85e55cdffea2d01150b47",
 "assets/assets/images/maxiIcon.png": "c88f8a73253e4760bcc004135b6bcd81",
@@ -26,12 +29,19 @@ const RESOURCES = {
 "assets/assets/images/obstracle.jpg": "6afcab5649130e5b3928d9faafc6f84f",
 "assets/assets/images/parent.jpg": "f36c008be0a5e213e023a7d6fba6d7be",
 "assets/assets/images/piano.jpg": "fd546728b1aaf9d8ae51f958fd0ab838",
+"assets/assets/images/rainbowBridge.jpg": "0118f40ff32d4a83d0c369bcb45bb0fd",
+"assets/assets/images/rollingObstracle.jpg": "aa37f50da3b33728da5e633207974a40",
+"assets/assets/images/rollSwing.JPG": "6269572d384c56a427489de83a3f8ad4",
 "assets/assets/images/sandpit.jpg": "37b9844aed1f090a791f4fd66f0e50c1",
+"assets/assets/images/shakingBridge.jpg": "c9d43b963b3ccb448f5af4c3eeb252b1",
 "assets/assets/images/slide.jpg": "fcece6a0b9bd613f493be58ac2b08482",
+"assets/assets/images/spiderCourse.JPG": "b9ce7e9cec55102d9c6697bf7a658658",
 "assets/assets/images/spongepool.jpg": "ee8e35fc1db6548f3cb9b6506a802972",
 "assets/assets/images/swing.jpg": "4809e85423138a553a9eebe8215de7e1",
+"assets/assets/images/tackles.JPG": "aab3a99183860f433a884cdc0444c662",
 "assets/assets/images/ThumbNail.png": "b2332050a0fff646108dfd4debf096e4",
 "assets/assets/images/trampoline.jpg": "450114ce990b728016e37500385685e1",
+"assets/assets/images/tunnelSlide.jpg": "4e7f61717a838d9adda199626d27c24c",
 "assets/assets/images/twitter.png": "9148d6c7413406403f4cb00812d5d45c",
 "assets/assets/images/ultimateBirthday.jpg": "1eac9c8d7b8b2aad15c6cb3c71dd76d3",
 "assets/assets/images/utlimateIcon.png": "5ca56232b474f666173c25f09197df27",
@@ -55,11 +65,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "ba8713e0b0464a30fd73981197978eab",
-"/": "ba8713e0b0464a30fd73981197978eab",
-"main.dart.js": "09544aa084055ca5ff5ada37dd0a6040",
+"index.html": "a227381d94ed5ef9d7a7c902c5305c8d",
+"/": "a227381d94ed5ef9d7a7c902c5305c8d",
+"main.dart.js": "569798b386358898753f3c9920ade81c",
 "manifest.json": "a54b551f9798406533839f2728386b55",
-"version.json": "ee19efc61c9069d5717b95b4025387ad"
+"version.json": "7ec4d114ca47cdce81ba0969f0107aa0"
 };
 
 // The application shell files that are downloaded before a service worker can
