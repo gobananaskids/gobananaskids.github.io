@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a0d17a4305ffe9719342df6b539a6d68",
+  "assets/AssetManifest.json": "fc2e2f57c80315861703a83093ae9cbb",
 "assets/assets/images/ballpool.jpg": "a1f80b97163f6423507a96b185dbac33",
 "assets/assets/images/banana.png": "8ef4ee0f23c5761f6a286462fbeb1146",
 "assets/assets/images/BananaLeft.png": "3706bb14cf4e20af8f0daa19023b02c2",
@@ -27,7 +27,7 @@ const RESOURCES = {
 "assets/assets/images/parent.jpg": "f36c008be0a5e213e023a7d6fba6d7be",
 "assets/assets/images/piano.jpg": "fd546728b1aaf9d8ae51f958fd0ab838",
 "assets/assets/images/sandpit.jpg": "37b9844aed1f090a791f4fd66f0e50c1",
-"assets/assets/images/slides.JPG": "fcece6a0b9bd613f493be58ac2b08482",
+"assets/assets/images/slide.jpg": "fcece6a0b9bd613f493be58ac2b08482",
 "assets/assets/images/spongepool.jpg": "ee8e35fc1db6548f3cb9b6506a802972",
 "assets/assets/images/swing.jpg": "4809e85423138a553a9eebe8215de7e1",
 "assets/assets/images/ThumbNail.png": "b2332050a0fff646108dfd4debf096e4",
@@ -55,8 +55,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "7bee98941683a010132a05beadc9421e",
-"/": "7bee98941683a010132a05beadc9421e",
+"index.html": "bcb957ae53c60a2badc54b5ef3e6f67b",
+"/": "bcb957ae53c60a2badc54b5ef3e6f67b",
 "main.dart.js": "09544aa084055ca5ff5ada37dd0a6040",
 "manifest.json": "a54b551f9798406533839f2728386b55",
 "version.json": "3a037d088b8499805cfce2dd9c9b6bdc"
